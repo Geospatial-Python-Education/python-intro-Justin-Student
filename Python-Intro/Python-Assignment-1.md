@@ -54,6 +54,9 @@ The goal of this class is to get you (somewhat) comfortable with Python and to g
   
   <il>2. Explore the navigator and open a Jupyter Notebook</il>
   
-    * Print out the statement "Hello World!" in a `cell`
+  <ul>
+    
+    <il>Print out the statement "Hello World!"</il>
   
+  </ul>
 </ul>
