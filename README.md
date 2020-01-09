@@ -2,7 +2,7 @@ Welcome to the Python Intro Assignment!
 
 ---
 
-This will hopefully be a nice guide into understanding what is ```syntax``` and what Python's specific syntax is.\
+This will hopefully be a nice guide into understanding what is ```syntax``` and what Python's specific syntax is.
 
 Synatx (rough) definition:
 
