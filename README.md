@@ -2,7 +2,9 @@ Welcome to the Python Intro Assignment!
 
 ---
 
-This will hopefully be a nice guide into understanding what is ```syntax``` and what Python's specific syntax is.
+This will hopefully be a nice guide into understanding what is ```syntax``` and what Python's specific syntax is.\
+
+Synatx (rough) definition:
 
 > Every spoken language has a general set of rules for how words and sentences should be structured. These rules are collectively known as the language syntax. In computer programming, syntax serves the same purpose, defining how declarations, functions, commands, and other statements should be arranged.
 
