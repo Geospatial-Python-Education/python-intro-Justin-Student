@@ -50,8 +50,13 @@ The goal of this class is to get you (somewhat) comfortable with Python and to g
 
 <ul>
   
-  <li>1. Download and install Anaconda Navigator!</li>
+  <li>Download and install Anaconda Navigator!</li>
   
-  <li>2. Explore the navigator and open a Jupyter Notebook</li>
+  <li>Explore the navigator and open a Jupyter Notebook
+    <ul>
+      <li>Print the statement "Hello World!"</li>
+      <li>Assign variables: a = 5 and b = 15 and print out the addition of a and b</li>
+    </ul>
+  </li>
   
 </ul>
