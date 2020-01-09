@@ -50,13 +50,14 @@ The goal of this class is to get you (somewhat) comfortable with Python and to g
 
 <ul>
   
-  <il>1. Download and install Anaconda Navigator!</il>
+  <li>1. Download and install Anaconda Navigator!</li>
   
-  <il>2. Explore the navigator and open a Jupyter Notebook</il>
+  <li>2. Explore the navigator and open a Jupyter Notebook
   
   <ul>
     
-    <il>Print out the statement "Hello World!"</il>
+    <li>Print out the statement "Hello World!"</li>
   
   </ul>
+  </li>
 </ul>
