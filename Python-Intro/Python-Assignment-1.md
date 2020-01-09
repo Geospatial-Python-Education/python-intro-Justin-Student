@@ -55,7 +55,7 @@ The goal of this class is to get you (somewhat) comfortable with Python and to g
   <li>Explore the navigator and open a Jupyter Notebook
     <ul>
       <li>Print the statement "Hello World!"</li>
-      <li>Assign variables: a = 5 and b = 15 and print out the addition of a and b</li>
+      <li>Assign variables: `a = 5` and `b = 15` and print out the addition of `a` and `b`</li>
     </ul>
   </li>
   
