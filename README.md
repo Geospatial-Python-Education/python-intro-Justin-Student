@@ -28,9 +28,9 @@ Python is a a very flexible language to work with and the basis of its workflow 
 
 Thus, the fantastic team at Anaconda have created a ```package manager``` called Conda! 
 
-The main purpose of this manger is to chack dependencies of all underlying packages for each new install to comabt the dependency conflicts that typically arise when installing packages on your own.
-
 * https://docs.anaconda.com/
+
+The main purpose of this manger is to chack dependencies of all underlying packages for each new install to comabt the dependency conflicts that typically arise when installing packages on your own.
 
 To begin our journey into Python, we will download and install the Conda Package Manager. This site will give some reading material as well as the location to download the application:
 
