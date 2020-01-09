@@ -6,12 +6,13 @@ This will hopefully be a nice guide into understanding what is ```syntax``` and 
 
 > Every spoken language has a general set of rules for how words and sentences should be structured. These rules are collectively known as the language syntax. In computer programming, syntax serves the same purpose, defining how declarations, functions, commands, and other statements should be arranged.
 
-Many computer programming languages share similar syntax rules, while others have a unique syntax design. For example, C and Java use a similar syntax, while Perl has many characteristics that are not seen in either the C or Java languages.
+> Many computer programming languages share similar syntax rules, while others have a unique syntax design. For example, C and Java use a similar syntax, while Perl has many characteristics that are not seen in either the C or Java languages.
 
-A program's source code must have correct syntax in order to compile correctly and be made into a program. In fact, it must have perfect syntax, or the program will fail to compile and produce a "syntax error." A syntax error can be as simple as a missing parenthesis or a forgotten semicolon at the end of a statement. Even these small errors will keep the source code from compiling.
+> A program's source code must have correct syntax in order to compile correctly and be made into a program. In fact, it must have perfect syntax, or the program will fail to compile and produce a "syntax error." A syntax error can be as simple as a missing parenthesis or a forgotten semicolon at the end of a statement. Even these small errors will keep the source code from compiling.
 
-Fortunately, most integrated development environments (IDEs) include a parser, which detects syntax errors within the source code. Modern parsers can even highlight syntax errors before a program is compiled, making it easy for the programmer to locate and fix them.
-(https://techterms.com/definition/syntax)
+> Fortunately, most integrated development environments (IDEs) include a parser, which detects syntax errors within the source code. Modern parsers can even highlight syntax errors before a program is compiled, making it easy for the programmer to locate and fix them.
+
+* (https://techterms.com/definition/syntax)
 
 In addition, you will learn some basics about data types and how to work in the Jupyter Notebook framework.
 
