@@ -48,23 +48,9 @@ The goal of this class is to get you (somewhat) comfortable with Python and to g
 
 ## Things to accomplish in this assignment:
 
-<ul>
+* Download and install Anaconda Navigator!</li>
   
-  <li>Download and install Anaconda Navigator!</li>
-  
-  <li>Explore the navigator and open a Jupyter Notebook
-    <ul>
-      <li>Print the statement "Hello World!"</li>
-      <li>Assign variables: ```a = 5``` and ```b = 15``` and print out the addition of ```a``` and ```b```</li>
-    </ul>
-  </li>
-  
-</ul>
+* Explore the navigator and open a Jupyter Notebook
+    - Print the statement "Hello World!"
+    - Assign variables: `a = 5` and `b = 15` and print out the addition of `a` and `b`<
 
-<dl>
-  <dt>First Term</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>Second ```Term```</dt>
-  <dd>This is one definition of the second term. </dd>
-  <dd>This is another definition of the second term.</dd>
-</dl>
