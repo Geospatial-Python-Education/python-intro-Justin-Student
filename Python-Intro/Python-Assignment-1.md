@@ -49,8 +49,7 @@ The goal of this class is to get you (somewhat) comfortable with Python and to g
 ## Things to accomplish in this assignment:
 
 * Download and install Anaconda Navigator!</li>
-  
+
 * Explore the navigator and open a Jupyter Notebook
     - Print the statement "Hello World!"
     - Assign variables: `a = 5` and `b = 15` and print out the addition of `a` and `b`
-
