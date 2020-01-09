@@ -52,3 +52,9 @@ The goal of this class is to get you (somewhat) comfortable with Python and to g
   <il>Download and install Anaconda Navigator!</il>
   <il>Explore the navigator and open a Jupyter Notebook</il>
 </ul>
+
+<dl>
+  <dt>Download and install Anaconda Navigator!</dt>
+  
+  <dt>Explore the navigator and open a Jupyter Notebook</dt>
+</dl>
