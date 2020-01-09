@@ -35,3 +35,5 @@ To begin our journey into Python, we will download and install the Conda Package
 The Anaconda Navigator is a multi-application application(!) that will download several good applications besides Jupyter as well as the option to download and install more, such as R Studio, Visual Studio Code, etc. One of the other default applications it installs is the Spyder IDE, so if you find you don't like the Jupyter framework, you can work in a more standard environment of the IDE.
 
 * https://docs.anaconda.com/anaconda/navigator/
+
+<img src="https://docs.anaconda.com/_images/nav-defaults.png">
